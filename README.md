@@ -6,3 +6,5 @@
 - 🔭2.Password Strength Checker
 - 🔭3.Simple Encryption and Decryption Tool
 - 🔭4.Basic Email Validator
+- 🔭5.Calculator app
+- 🔭6.Secret Message Encryption and Decryption tool
